@@ -288,6 +288,66 @@
       "sourceImageUrl": "https://booth.pximg.net/c/620x620/3b0254ea-82f8-4a6a-924f-f6cb282d87b4/i/8964001/1b199258-b350-4058-ac17-b3e8eca52510_base_resized.jpg",
       "imageRevision": "545706ef257daf07d06303367ef29b93c2107981ea981840ad153cca42e91994",
       "updatedAt": "2026-10-29 23:11:27"
+    },
+    {
+      "slot": 0,
+      "name": "【販売記念セール中！！】袖振りセーラー【ナナセ・ノワール／ルルネ対応】 - はっかの物置 - BOOTH",
+      "category": "衣装",
+      "avatar": "ルルネ対応",
+      "shop": "はっかの物置",
+      "boothUrl": "https://booth.pm/ja/items/9056057",
+      "imageUrl": "https://mizukifanclub.github.io/mizuki-world-data/images/slot_0000.jpg",
+      "sourceImageUrl": "https://booth.pximg.net/c/620x620/3fc74b65-c645-4544-a7ed-c657fe7a5484/i/9056057/52352f35-c4c2-4eeb-b178-2e1d006c2e8d_base_resized.jpg",
+      "imageRevision": "d620264463fde50524d6a53097e3efb2e751fd9eca122ffa9cd7a1055339545e",
+      "updatedAt": "2026-10-30 6:09:29"
+    },
+    {
+      "slot": 1,
+      "name": "✨55%SALE✨ ✿8AVA✿ Mellow Butterfly - Mellie Mellow - BOOTH",
+      "category": "衣装",
+      "avatar": "ルルネ対応",
+      "shop": "Mellie Mellow",
+      "boothUrl": "https://booth.pm/ja/items/9037313",
+      "imageUrl": "https://mizukifanclub.github.io/mizuki-world-data/images/slot_0001.jpg",
+      "sourceImageUrl": "https://booth.pximg.net/c/620x620/b23765a6-b657-4f42-b334-3f5d8683afeb/i/9037313/c534c56c-0718-47db-957c-8c54de72c5a1_base_resized.jpg",
+      "imageRevision": "8ac41fb4d1290e7d19c928a56eb51e51e93098e778448a2943e0ab862a1c4cfb",
+      "updatedAt": "2026-10-30 6:09:30"
+    },
+    {
+      "slot": 2,
+      "name": "【10/31まで発売記念50%OFF】【4アバター対応】POP'N STREET TEE - neonoir - BOOTH",
+      "category": "衣装",
+      "avatar": "ルルネ対応",
+      "shop": "neonoir",
+      "boothUrl": "https://booth.pm/ja/items/9026523",
+      "imageUrl": "https://mizukifanclub.github.io/mizuki-world-data/images/slot_0002.jpg",
+      "sourceImageUrl": "https://booth.pximg.net/c/620x620/e8310d07-5436-4896-ae54-bc01a5d56a6e/i/9026523/810a9b10-cea1-4a24-b9eb-e3bbf8759bd8_base_resized.jpg",
+      "imageRevision": "2dde1b385af243489f7d34cf1aa1093c0168e05759a3243115b974509f30e773",
+      "updatedAt": "2026-10-30 6:09:30"
+    },
+    {
+      "slot": 3,
+      "name": "【VRC想定】Denim_shorts_for_12_Avatar - YOONKIRA - BOOTH",
+      "category": "衣装",
+      "avatar": "瑞希対応",
+      "shop": "YOONKIRA",
+      "boothUrl": "https://booth.pm/ja/items/8982785",
+      "imageUrl": "https://mizukifanclub.github.io/mizuki-world-data/images/slot_0003.jpg",
+      "sourceImageUrl": "https://booth.pximg.net/c/620x620/0b553cf3-9222-4abe-bc27-60aa8907d63d/i/8982785/a75c24de-1105-46b7-8ee1-afdff38e6bb2_base_resized.jpg",
+      "imageRevision": "f00dd9f93964055877918c6bbedb4f592e158ccd19e52bf2fb1adda999cbdca3",
+      "updatedAt": "2026-10-30 6:09:32"
+    },
+    {
+      "slot": 4,
+      "name": "『Claymore』地雷系衣装　2アバター対応 - 駄菓子屋、須磨。 - BOOTH",
+      "category": "衣装",
+      "avatar": "ルルネ対応",
+      "shop": "駄菓子屋、須磨。",
+      "boothUrl": "https://booth.pm/ja/items/9051682",
+      "imageUrl": "https://mizukifanclub.github.io/mizuki-world-data/images/slot_0004.jpg",
+      "sourceImageUrl": "https://booth.pximg.net/c/620x620/22745434-5bec-45ea-9afd-a28d524590dd/i/9051682/11771312-3769-4b77-a7a2-9cc6c7ec7880_base_resized.jpg",
+      "imageRevision": "1e9291aaddc70ebf6c2b15987d8d176fc80ea0293639c7568cc3399529fd9655",
+      "updatedAt": "2026-10-30 6:09:33"
     }
   ]
 }
